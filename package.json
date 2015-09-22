@@ -1,0 +1,17 @@
+{
+  "name": "osticket",
+  "version": "1.0.0",
+  "description": "Super simple OSTicket API Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Savage <andy@savage.hk>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.10.1",
+    "request-promise": "^0.4.3",
+    "underscore": "^1.8.3",
+    "url": "^0.11.0"
+  }
+}
